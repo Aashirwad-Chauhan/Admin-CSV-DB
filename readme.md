@@ -19,26 +19,26 @@
 - ---> Link: https://ethereal.email/
 - ---> Steps: Click on "create Ethereal account" get this code snippet 
 - ---> const transporter = nodemailer.createTransport({
-            host: 'smtp.ethereal.email',
-            port: 587,
-            auth: {
-                user: 'geovanni.durgan@ethereal.email',
-                pass: 'vJTZEwVGA9dcj6BYmD'
-              }
-        });
+-            host: 'smtp.ethereal.email',
+-            port: 587,
+-            auth: {
+-              user: 'geovanni.durgan@ethereal.email',
+-             pass: 'vJTZEwVGA9dcj6BYmD'
+-           }
+-      });
 
 - --->paste it in the ./utils/emailService.js
 
 - **SendGrid for production** : update your env key
 
 # env vars
--MONGO_URI=(mongoDB atlas key)
--PORT=
--NODE_ENV=
--SENDGRID_API_KEY=
--NAME=
--EMAIL=
--FRONT_END_URL=
+- MONGO_URI=(mongoDB atlas key)
+- PORT=
+- NODE_ENV=
+- SENDGRID_API_KEY=
+- NAME=
+- EMAIL=
+- FRONT_END_URL=
 
 
 
