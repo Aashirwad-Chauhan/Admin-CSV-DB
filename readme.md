@@ -16,18 +16,18 @@
 
 # Dependencies
 - **Use Ethereal for testing purpose**:
---->Link: https://ethereal.email/
---->Steps: Click on "create Ethereal account" get this code snippet 
---->const transporter = nodemailer.createTransport({
-    host: 'smtp.ethereal.email',
-    port: 587,
-    auth: {
-        user: 'geovanni.durgan@ethereal.email',
-        pass: 'vJTZEwVGA9dcj6BYmD'
-    }
-});
+- ---> Link: https://ethereal.email/
+- ---> Steps: Click on "create Ethereal account" get this code snippet 
+- ---> const transporter = nodemailer.createTransport({
+            host: 'smtp.ethereal.email',
+            port: 587,
+            auth: {
+                user: 'geovanni.durgan@ethereal.email',
+                pass: 'vJTZEwVGA9dcj6BYmD'
+              }
+        });
 
---->paste it in the ./utils/emailService.js
+- --->paste it in the ./utils/emailService.js
 
 - **SendGrid for production** : update your env key
 
