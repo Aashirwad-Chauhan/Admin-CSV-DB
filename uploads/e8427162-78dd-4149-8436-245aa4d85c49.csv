@@ -1,0 +1,101 @@
+name,email,city
+Alice,aliceexample.com,San Francisco
+Alice,alice1@example.com,Chicago
+David,david2@example.com,Los Angeles
+David,david3@example.com,San Francisco
+Eve,eve4@example.com,New York
+Alice,alice5@example.com,San Francisco
+Alice,alice6@example.com,
+Alice,alice7@example.com,Los Angeles
+Alice,alice8@example.com,Chicago
+David,david9@example.com,Chicago
+David,davidexample.com,Los Angeles
+Alice,alice11@example.com,Los Angeles
+Eve,eve12@example.com,Los Angeles
+Eve,eve13@example.com,San Francisco
+Charlie,charlie14@example.com,San Francisco
+Alice,alice15@example.com,Chicago
+Bob,bob16@example.com,Los Angeles
+Alice,alice17@example.com,San Francisco
+Eve,eve18@example.com,Los Angeles
+Bob,bob19@example.com,San Francisco
+Charlie,charlieexample.com,
+David,david21@example.com,Chicago
+Bob,bob22@example.com,Chicago
+David,david23@example.com,
+David,david24@example.com,New York
+Charlie,charlie25@example.com,
+Eve,eve26@example.com,
+Bob,bob27@example.com,Chicago
+Eve,eve28@example.com,San Francisco
+David,david29@example.com,
+Alice,aliceexample.com,San Francisco
+David,david31@example.com,New York
+David,david32@example.com,
+Alice,alice33@example.com,Chicago
+Bob,bob34@example.com,Los Angeles
+David,david35@example.com,San Francisco
+Alice,alice36@example.com,Chicago
+Charlie,charlie37@example.com,New York
+Bob,bob38@example.com,New York
+David,david39@example.com,Chicago
+Charlie,charlieexample.com,
+Alice,alice41@example.com,San Francisco
+Bob,bob42@example.com,Los Angeles
+Bob,bob43@example.com,
+Bob,bob44@example.com,San Francisco
+Eve,eve45@example.com,Los Angeles
+Bob,bob46@example.com,
+David,david47@example.com,
+David,david48@example.com,
+Bob,bob49@example.com,
+Charlie,charlieexample.com,New York
+Charlie,charlie51@example.com,
+Eve,eve52@example.com,
+Charlie,charlie53@example.com,Los Angeles
+Eve,eve54@example.com,Chicago
+Charlie,charlie55@example.com,
+Eve,eve56@example.com,San Francisco
+David,david57@example.com,Los Angeles
+Charlie,charlie58@example.com,Los Angeles
+Bob,bob59@example.com,
+Alice,aliceexample.com,
+Eve,eve61@example.com,
+Bob,bob62@example.com,New York
+David,david63@example.com,San Francisco
+David,david64@example.com,San Francisco
+Eve,eve65@example.com,
+Bob,bob66@example.com,San Francisco
+Bob,bob67@example.com,Chicago
+Eve,eve68@example.com,Chicago
+Charlie,charlie69@example.com,San Francisco
+Alice,aliceexample.com,San Francisco
+Bob,bob71@example.com,Chicago
+Alice,alice72@example.com,Chicago
+Eve,eve73@example.com,San Francisco
+Alice,alice74@example.com,Los Angeles
+Bob,bob75@example.com,San Francisco
+Bob,bob76@example.com,San Francisco
+Charlie,charlie77@example.com,San Francisco
+Charlie,charlie78@example.com,Chicago
+David,david79@example.com,
+Charlie,charlieexample.com,Chicago
+David,david81@example.com,Los Angeles
+David,david82@example.com,
+Bob,bob83@example.com,San Francisco
+Alice,alice84@example.com,Chicago
+Alice,alice85@example.com,New York
+David,david86@example.com,
+Bob,bob87@example.com,Chicago
+Bob,bob88@example.com,San Francisco
+Eve,eve89@example.com,Los Angeles
+Charlie,charlieexample.com,Los Angeles
+Alice,alice91@example.com,San Francisco
+Eve,eve92@example.com,New York
+Bob,bob93@example.com,
+Eve,eve94@example.com,Chicago
+Charlie,charlie95@example.com,New York
+Eve,eve96@example.com,
+Alice,alice97@example.com,
+David,david98@example.com,Los Angeles
+Alice,alice99@example.com,Los Angeles
