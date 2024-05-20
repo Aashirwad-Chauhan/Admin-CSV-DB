@@ -18,7 +18,7 @@
 - **Use Ethereal for testing purpose**:
 - ---> Link: https://ethereal.email/
 - ---> Steps: Click on "create Ethereal account" get this code snippet 
-- ---> const transporter = nodemailer.createTransport({
+-     const transporter = nodemailer.createTransport({
 -            host: 'smtp.ethereal.email',
 -            port: 587,
 -            auth: {
